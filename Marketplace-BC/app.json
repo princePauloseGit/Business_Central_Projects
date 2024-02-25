@@ -1,0 +1,54 @@
+{
+  "id": "c93d9b73-1a38-4daa-a688-288ef5393001",
+  "name": "MarketPlace",
+  "publisher": "Enhanced",
+  "version": "1.0.2.81",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+  {
+  "id": "d3803046-a8e4-475c-a98d-33f7146028de",
+  "name": "Enhanced Int. Logs",
+  "publisher": "Enhanced",
+  "version": "1.0.5.0"
+  },
+  {
+  "id": "280aab5b-658d-433b-a71a-f3bdfcac71f5",
+  "name": "Carrier Integration",
+  "publisher": "Enhanced",
+  "version": "1.0.0.67"
+  },
+  {
+  "id": "969144e7-6ac4-4f41-8d82-27ec998e5e63",
+  "name": "AL-Harts-BaseFields",
+  "publisher": "Enhanced",
+  "version": "1.0.0.23"
+  },
+  {
+  "id": "a5727ce6-368c-49e2-84cb-1a6052f0551c",
+  "name": "Mobile WMS",
+  "publisher": "Tasklet Factory",
+  "version": "5.40.200.226"
+  }
+  ],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "20.0.0.0",
+  "idRanges": [
+  {
+  "from": 50400,
+  "to": 50500
+  }
+  ],
+  "resourceExposurePolicy": {
+  "allowDebugging": true,
+  "allowDownloadingSource": false,
+  "includeSourceInSymbolFile": false
+  },
+  "runtime": "9.0"
+}
